@@ -1,2 +1,2 @@
 # ApplicationPublish
-This is a repo for bin publish files
+This is a repo for bin publish files:
